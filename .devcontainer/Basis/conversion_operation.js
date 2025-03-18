@@ -23,3 +23,11 @@ console.log(typeof score)  // O/P:- object
 let result = Number(score)
 console.log(typeof result)  // O/P :- number 
 console.log(result)     // O/P :- 0
+
+somenumber = 33
+// let somenumber= String(33)
+stringnumber = String (somenumber)
+console.log(somenumber)
+console.log(stringnumber)
+console.log(typeof(somenumber))
+console.log(typeof(stringnumber))
