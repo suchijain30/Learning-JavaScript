@@ -6,6 +6,11 @@ console.log(score)
 
 console.log(score.toString())
 console.log(score.toString().length)
-console.log(score.toFixed(2))   // fixing precision value
+console.log(score.toFixed(2))   // fixing value after decimal
+
+
+// precision 
+
+
   
 
